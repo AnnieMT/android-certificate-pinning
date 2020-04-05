@@ -37,7 +37,6 @@ III. FEATURES
 Copyright © 2014 
 
 Edward Reyes
-Sahil Arora
 Annie Thornton
 
 CMPE 277: Smartphone Application Development
